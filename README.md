@@ -65,6 +65,10 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
 # Troubleshooting
+<img width="197" alt="image" src="https://github.com/wanifaisu/todoReactnative/assets/88281686/f38177fc-4726-4bfa-b875-4b520ee8aa6a">
+<img width="191" alt="image" src="https://github.com/wanifaisu/todoReactnative/assets/88281686/52c67991-c1f1-41f3-98fe-41d3396a0987">
+<img width="194" alt="image" src="https://github.com/wanifaisu/todoReactnative/assets/88281686/846da3f9-fe58-4438-ba1d-8d7b28f70dc1">
+<img width="221" alt="image" src="https://github.com/wanifaisu/todoReactnative/assets/88281686/a14316b1-8806-4866-94a6-52f4e570930d">
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
